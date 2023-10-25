@@ -1,0 +1,1 @@
+Extract and place all the files from idx_files.zip file here to run the script. Alternatively, you may use the download script to download them again.

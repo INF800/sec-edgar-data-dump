@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+# copies of input idx_file.zip
+idx_files/*.idx
+# copy of csv output file output/AllDataUntil20231011.csv
+output/AllDataUntil20231011.sqlite
